@@ -1,0 +1,27 @@
+http://localhost:5173/
+
+https://api.thecatapi.com/v1/breeds
+
+D:\Mis documentos\A - IMPUESTOS\Cursos\React JS
+
+npm install
+
+npm create vite@latest proyectotech
+
+https://fakestoreapi.com/products/
+
+
+---------
+
+
+https://static.vecteezy.com/system/resources/previews/009/096/946/non_2x/monitor-screen-computer-with-colorful-rainbow-bubble-illustration-logo-design-vector.jpg
+
+
+http://localhost:5173/
+
+--------
+
+style={{ backgroundColor: '#ffcc00' }}
+
+
+<Navbar bg="primary" variant="dark" expand="lg" className="mb-4">
