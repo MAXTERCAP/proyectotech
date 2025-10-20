@@ -10,7 +10,10 @@ const ProductList = ({ category = null }) =>
 
     useEffect(() => 
     {
-    let url = 'https://fakestoreapi.com/products';
+    let url = 'https://fake-store-api.mock.beeceptor.com/api/products';
+
+      // let url = 'https://fakestoreapi.com/products'; 
+    
     if (category) 
     {
       url = `https://fakestoreapi.com/products/category/${category}`;
