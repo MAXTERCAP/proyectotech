@@ -14,17 +14,22 @@ const ProductCard = ({ product, agregarAlCarrito }) => {
 
         className="card-img-top img-fluid" 
         
-        style={{ height: '200px', objectFit: 'cover' }} 
+        style={{ height: '70%',  objectposition: 'center'}} 
       />
 
       
       <Card.Body className="d-flex flex-column">
-        <Card.Title>{product.title}</Card.Title>
+        <Card.Title>
+          {product.title}
+        </Card.Title>
         <Card.Text>
           {product.description.slice(0, 100)}...
         </Card.Text>
         <Card.Text>
           <strong>${product.price}</strong>
+        </Card.Text>
+        <Card.Text>
+          <strong>Stock: {product.stock}</strong>
         </Card.Text>
         <Button variant="primary" onClick={() => agregarAlCarrito(product)}>
           Agregar al carrito

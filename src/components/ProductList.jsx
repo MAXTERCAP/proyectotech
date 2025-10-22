@@ -10,7 +10,7 @@ const ProductList = ({ category = null }) =>
 
     useEffect(() => 
     {
-    let url = 'https://fake-store-api.mock.beeceptor.com/api/products';
+    let url = 'https://68f91bd5deff18f212b8a99b.mockapi.io/api/products';
 
       // let url = 'https://fakestoreapi.com/products'; 
     
