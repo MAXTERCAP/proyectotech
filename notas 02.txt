@@ -1,17 +1,6 @@
-
-8 hs
-9
-8
-7
-
-    bg-dark
-
-
 https://github.com/MAXTERCAP/proyectotech.git
 
-
-123qweASD!!!2025!!!
-
-
-
 https://fake-store-api.mock.beeceptor.com/api/products
+
+
+https://68f91bd5deff18f212b8a99b.mockapi.io/api/products
